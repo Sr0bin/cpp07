@@ -8,7 +8,5 @@
 compile_commands.json
 .cache
 .gdbinit
-convert
-serialize
-dynamic
+whatever
 TEMPLATES.md
